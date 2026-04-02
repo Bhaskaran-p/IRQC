@@ -1,0 +1,15 @@
+IMDB top 250 movies Dataset
+
+LINK:https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset
+
+supermarket sales
+
+LINK: https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
+
+Big Basket products
+
+LINK: https://www.kaggle.com/datasets/chinmayshanbhag/big-basket-products
+
+MovieLens 10K
+LINK: https://grouplens.org/datasets/movielens
+
