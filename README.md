@@ -1,6 +1,6 @@
 IRQC: Item Recommendation and Quantum Correlation for Recommender Systems
 
-Overview
+Overview:
 This repository presents the implementation of an Item Recommendation and Quantum Correlation (IRQC) approach for recommender systems. The project explores how quantum-inspired techniques can be used to compute similarity between users/items and compares their performance with classical correlation methods.
 
 The work integrates:
