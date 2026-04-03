@@ -11,15 +11,15 @@ The work integrates:
  Key Features
 -  Quantum correlation using randomly initialized quantum circuits
 -  Classical baselines:
-  - Pearson Correlation
-  - Cosine Similarity
+     - Pearson Correlation
+     - Cosine Similarity
 -  Train-test split (80–20) evaluation
 -  Error metrics:
-  - Mean Squared Error (MSE)
-  - Root Mean Squared Error (RMSE)
+    - Mean Squared Error (MSE)
+    - Root Mean Squared Error (RMSE)
 -  Statistical validation:
-  - T-test
-  - P-value analysis
+    - T-test
+    - P-value analysis
 
 
 Repository Structure
@@ -45,8 +45,8 @@ Methodology
 
 3. Data Splitting
 - Dataset split into:
-  - 80% Training
-  - 20% Testing
+   - 80% Training
+   - 20% Testing
 
 4. Evaluation Metrics
 - Mean Squared Error (MSE)
